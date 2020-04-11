@@ -1,0 +1,11 @@
+C:\VStudio Projects\checkBracket\bin\Debug\netcoreapp3.1\checkBracket.exe
+C:\VStudio Projects\checkBracket\bin\Debug\netcoreapp3.1\checkBracket.deps.json
+C:\VStudio Projects\checkBracket\bin\Debug\netcoreapp3.1\checkBracket.runtimeconfig.json
+C:\VStudio Projects\checkBracket\bin\Debug\netcoreapp3.1\checkBracket.runtimeconfig.dev.json
+C:\VStudio Projects\checkBracket\bin\Debug\netcoreapp3.1\checkBracket.dll
+C:\VStudio Projects\checkBracket\bin\Debug\netcoreapp3.1\checkBracket.pdb
+C:\VStudio Projects\checkBracket\obj\Debug\netcoreapp3.1\checkBracket.AssemblyInfoInputs.cache
+C:\VStudio Projects\checkBracket\obj\Debug\netcoreapp3.1\checkBracket.AssemblyInfo.cs
+C:\VStudio Projects\checkBracket\obj\Debug\netcoreapp3.1\checkBracket.dll
+C:\VStudio Projects\checkBracket\obj\Debug\netcoreapp3.1\checkBracket.pdb
+C:\VStudio Projects\checkBracket\obj\Debug\netcoreapp3.1\checkBracket.csprojAssemblyReference.cache
