@@ -1,0 +1,11 @@
+C:\VStudio Projects\myStringRealisation\obj\Debug\netcoreapp3.1\myStringRealisation.csprojAssemblyReference.cache
+C:\VStudio Projects\myStringRealisation\obj\Debug\netcoreapp3.1\myStringRealisation.AssemblyInfoInputs.cache
+C:\VStudio Projects\myStringRealisation\obj\Debug\netcoreapp3.1\myStringRealisation.AssemblyInfo.cs
+C:\VStudio Projects\myStringRealisation\bin\Debug\netcoreapp3.1\myStringRealisation.exe
+C:\VStudio Projects\myStringRealisation\bin\Debug\netcoreapp3.1\myStringRealisation.deps.json
+C:\VStudio Projects\myStringRealisation\bin\Debug\netcoreapp3.1\myStringRealisation.runtimeconfig.json
+C:\VStudio Projects\myStringRealisation\bin\Debug\netcoreapp3.1\myStringRealisation.runtimeconfig.dev.json
+C:\VStudio Projects\myStringRealisation\bin\Debug\netcoreapp3.1\myStringRealisation.dll
+C:\VStudio Projects\myStringRealisation\bin\Debug\netcoreapp3.1\myStringRealisation.pdb
+C:\VStudio Projects\myStringRealisation\obj\Debug\netcoreapp3.1\myStringRealisation.dll
+C:\VStudio Projects\myStringRealisation\obj\Debug\netcoreapp3.1\myStringRealisation.pdb
