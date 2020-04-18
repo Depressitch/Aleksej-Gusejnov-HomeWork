@@ -1,0 +1,11 @@
+C:\VStudio Projects\newTrello\bin\Debug\netcoreapp3.1\newTrello.exe
+C:\VStudio Projects\newTrello\bin\Debug\netcoreapp3.1\newTrello.deps.json
+C:\VStudio Projects\newTrello\bin\Debug\netcoreapp3.1\newTrello.runtimeconfig.json
+C:\VStudio Projects\newTrello\bin\Debug\netcoreapp3.1\newTrello.runtimeconfig.dev.json
+C:\VStudio Projects\newTrello\bin\Debug\netcoreapp3.1\newTrello.dll
+C:\VStudio Projects\newTrello\bin\Debug\netcoreapp3.1\newTrello.pdb
+C:\VStudio Projects\newTrello\obj\Debug\netcoreapp3.1\newTrello.csprojAssemblyReference.cache
+C:\VStudio Projects\newTrello\obj\Debug\netcoreapp3.1\newTrello.AssemblyInfoInputs.cache
+C:\VStudio Projects\newTrello\obj\Debug\netcoreapp3.1\newTrello.AssemblyInfo.cs
+C:\VStudio Projects\newTrello\obj\Debug\netcoreapp3.1\newTrello.dll
+C:\VStudio Projects\newTrello\obj\Debug\netcoreapp3.1\newTrello.pdb
