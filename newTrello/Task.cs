@@ -12,10 +12,6 @@ namespace TrelloClone
         public string Text;
         public string Title;
 
-        public Task()
-        {
-            Text = "";
-        }
         public void ShowStatuses()
         {
             int i = 0; 
