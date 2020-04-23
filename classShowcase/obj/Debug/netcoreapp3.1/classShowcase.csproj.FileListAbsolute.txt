@@ -1,0 +1,11 @@
+C:\VStudio Projects\classShowcase\bin\Debug\netcoreapp3.1\classShowcase.exe
+C:\VStudio Projects\classShowcase\bin\Debug\netcoreapp3.1\classShowcase.deps.json
+C:\VStudio Projects\classShowcase\bin\Debug\netcoreapp3.1\classShowcase.runtimeconfig.json
+C:\VStudio Projects\classShowcase\bin\Debug\netcoreapp3.1\classShowcase.runtimeconfig.dev.json
+C:\VStudio Projects\classShowcase\bin\Debug\netcoreapp3.1\classShowcase.dll
+C:\VStudio Projects\classShowcase\bin\Debug\netcoreapp3.1\classShowcase.pdb
+C:\VStudio Projects\classShowcase\obj\Debug\netcoreapp3.1\classShowcase.csprojAssemblyReference.cache
+C:\VStudio Projects\classShowcase\obj\Debug\netcoreapp3.1\classShowcase.AssemblyInfoInputs.cache
+C:\VStudio Projects\classShowcase\obj\Debug\netcoreapp3.1\classShowcase.AssemblyInfo.cs
+C:\VStudio Projects\classShowcase\obj\Debug\netcoreapp3.1\classShowcase.dll
+C:\VStudio Projects\classShowcase\obj\Debug\netcoreapp3.1\classShowcase.pdb
