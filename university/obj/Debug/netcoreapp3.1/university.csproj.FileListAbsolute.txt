@@ -1,0 +1,11 @@
+C:\VStudio Projects\university\bin\Debug\netcoreapp3.1\university.exe
+C:\VStudio Projects\university\bin\Debug\netcoreapp3.1\university.deps.json
+C:\VStudio Projects\university\bin\Debug\netcoreapp3.1\university.runtimeconfig.json
+C:\VStudio Projects\university\bin\Debug\netcoreapp3.1\university.runtimeconfig.dev.json
+C:\VStudio Projects\university\bin\Debug\netcoreapp3.1\university.dll
+C:\VStudio Projects\university\bin\Debug\netcoreapp3.1\university.pdb
+C:\VStudio Projects\university\obj\Debug\netcoreapp3.1\university.AssemblyInfoInputs.cache
+C:\VStudio Projects\university\obj\Debug\netcoreapp3.1\university.AssemblyInfo.cs
+C:\VStudio Projects\university\obj\Debug\netcoreapp3.1\university.dll
+C:\VStudio Projects\university\obj\Debug\netcoreapp3.1\university.pdb
+C:\VStudio Projects\university\obj\Debug\netcoreapp3.1\university.csprojAssemblyReference.cache
